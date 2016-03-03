@@ -1,0 +1,184 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Buy Designer Sarees, Suits, Lahengas - Priyani Collections</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords", content="Sarees, Saris, Saree, Sari, Suits, Suit, Designer Suits, Party Wear Suits, Anarkali Suits, Designer Saree, Party Wear Saree, Silk Saree, Bridal Saree, Bridal Lahengas, PRIYANI COLLECTIONS, DELHI" name="keywords">
+<meta content="Buy Designer Sarees, Designer Suits, Party Wear Suits, Bridal Lahengas @ best price on Priyani Collections. Shop for silk sarees, party wear sarees, lehenga sarees, designer suits, party wear suits. PRIYANI COLLECTIONS host a variety of suits from everyday casual wear to heavy party outfits. " name="description">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link type="text/css" href="styles.css" rel="stylesheet">
+<link rel="stylesheet" href="coin-slider.css" type="text/css" />
+<link href="simple_menu.css" media="screen" type="text/css" rel="stylesheet">
+<link rel="icon" type="image/ico" href="favicon.ico">
+<!--[if IE 6]><link rel="stylesheet" href="./css/style.ie6.css" type="text/css" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="./css/style.ie7.css" type="text/css" media="screen" /><![endif]-->
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/slider_script.js"></script>
+<script type="text/javascript" src="js/coin-slider.min.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-48460900-1', 'priyanicollections.com');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  	<div id="header">
+        <h1 class="logo" id="homelogo">
+            <span class="pc">Priyani Collections</span>
+        </h1>
+        <div id="socialmedia">
+        <span class="followus">Follow us :</span>
+        		<div class="facebook"> 
+                  <a target="_blank" href="https://www.facebook.com/pages/Priyani-Collections/465540940224217" title="Facebook">
+                   <img alt="Find us on Facebook" src="images/facebook_icon.png"></a> 
+               </div>
+              	<div class="twitter"> 
+                    <a target="_blank" href="https://twitter.com/pccollections" title="Twitter">
+                    <img alt="Find us on Twitter" src="images/twitter.png"></a> 
+               </div>
+              	<div class="googleplus"> 
+                <a target="_blank" href="https://plus.google.com/112072378216066217415" title="Google Plus">
+                 <img alt="Find us on Google Plus" src="images/plus_google1.png"></a> 
+              </div>
+              </div>
+    	<div class="wrapper">
+    	<div class="wrapper-in">
+            <ol class="simple_menu simple_menu_css horizontal black_menu" id="menu">
+                <li><a href="index.html">Home</a></li>  
+                <li><a href="designersuits.html">Suits</a>
+                      <!-- sub menu -->
+                      <ol>     
+                      	<li><a href="designersuits.html#designer">Designer Suits</a></li>
+                          <li><a href="designersuits.html#party">Party Wear Suits</a></li>
+                          <li><a href="designersuits.html#bolly">Bollywood Replica Suits</a></li>
+                          <li><a href="anarkali.html">Anarkali Suits</a></li>
+                      </ol>
+                      </li>
+                      <li><a href="designersaree.html">Saree</a>
+                	<ol>
+                		<li><a href="designersaree.html#design">Designer Saree</a></li>
+                        <li><a href="designersaree.html#party">Party Wear Saree</a></li>
+                        <li><a href="designersaree.html#bolly">Bollywood Replica Saree</a></li>
+                        <li><a href="designersaree.html#silk">Silk Saree</a></li>
+                   </ol>
+                   </li>
+                   	  <li><a href="lahengas.html">Lahengas</a>
+                      	<ol>
+                            <li><a href="lahengas.html#bridal">Bridal Lahengas</a></li>
+                            <li><a href="lahengas.html#party">Party Wear Lahengas</a></li>
+                   		</ol>
+                      </li>
+                      <li><a href="kurti.html">Kurti</a>
+                      <ol>
+                       <li><a href="kurti.html#party">Party Wear Kurti</a></li>
+                       <li><a href="kurti.html#daily">Daily Wear Kurti</a></li>
+                       </ol></li>
+                      <!-- end sub menu -->
+                      <li><a href="gallery.html">Gallery</a></li>
+                      
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="https://picasaweb.google.com/112072378216066217415?noredirect=1" target="_new">Picasa Album</a></li>
+                <li class="last"><a href="contact.html">Contact Us</a></li>
+                
+            </ol>
+    </div>
+ 	 </div>
+    </div>
+    <div class="main">
+  	<div id="parallax">
+      <div class="slider">
+        <div id="coin-slider"> 
+            <a href="https://picasaweb.google.com/112072378216066217415?noredirect=1" target="_blank"><img src="images/slide_images/6004.jpg" width="1080" height="560" alt="" /> </a> 
+            <a href="https://picasaweb.google.com/112072378216066217415?noredirect=1" target="_blank"><img src="images/slide_images/6012.jpg" width="1080" height="560" alt="" /> </a> 
+           	<a href="https://picasaweb.google.com/112072378216066217415?noredirect=1" target="_blank"><img src="images/slide_images/8001-6800.jpg" width="1080" height="560" alt="" /> </a> 
+            <a href="https://picasaweb.google.com/112072378216066217415?noredirect=1" target="_blank"><img src="images/slide_images/8002-6800.jpg" width="1080" height="560" alt="" /> </a> 
+            <a href="https://picasaweb.google.com/112072378216066217415?noredirect=1" target="_blank"><img src="images/slide_images/8003_B-6800.jpg" width="1080" height="560" alt="" /> </a> 
+            <a href="https://picasaweb.google.com/112072378216066217415?noredirect=1" target="_blank"><img src="images/slide_images/8012_B.jpg" width="1080" height="560" alt="" /> </a> 
+            <a href="https://picasaweb.google.com/112072378216066217415?noredirect=1" target="_blank"><img src="images/slide_images/DNo_27939.jpg" width="1080" height="560" alt="" /> </a> 
+            <a href="https://picasaweb.google.com/112072378216066217415?noredirect=1" target="_blank"><img src="images/slide_images/4-7203.jpg" width="1080" height="560" alt="" /> </a> 
+            <a href="https://picasaweb.google.com/112072378216066217415?noredirect=1" target="_blank"><img src="images/slide_images/5-7204.jpg" width="1080" height="560" alt="" /> </a>
+            <a href="https://picasaweb.google.com/112072378216066217415?noredirect=1" target="_blank"><img src="images/slide_images/8012_B.jpg" width="1080" height="560" alt="" /> </a>
+       	</div>
+        <div class="clr"> </div>
+      </div>
+    </div>
+    <div class="content_wrapper">
+    	<div class="container">
+            <div class="one-third">
+              <h2 class="call"><a href="#">Salwar Suits</a></h2>
+              <p class="call">We host a variety of suits from everyday casual wear to heavy party outfits. Whether you need suits to wear to work or daily wear at home, we offer suits to fulfill all your Indian wear needs.<br>
+                <a href="#">Read More &gt;</a></p>
+            </div>
+            <div class="one-third">
+              <h2 class="call"><a href="#">Sarees</a></h2>
+              <p class="call">We offer a large variety of sarees ranging from casual and designer both. The sarees are available in different materials as per the customer’s requirements.<br>
+                <a href="#">Read More &gt;</a></p>
+            </div>
+            <div class="one-third last">
+              <h2 class="call"><a href="#">Kurti</a></h2>
+              <p class="call">Our heavy suits and sarees are closely inspired from the latest trends in Bollywood. The clothes are glamorous and can be worn on formal occasions and parties.<br>
+                <a href="#">Read More &gt;</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    </div>
+  	<div id="footer">
+    <div class="fb-like" data-href="https://www.facebook.com/pages/Priyani-Collections/465540940224217" data-width="55" data-layout="box_count" data-action="like" data-show-faces="false" data-share="true"></div>
+
+
+  		<div style="width:960px; margin: auto; padding-bottom: 30px">
+            <div class="one-fourth">
+            <h3>Product Ranges </h3>
+            <ul style="font-family: Georgia, 'Times New Roman'; margin: 0 15px 0 0; padding:0;">
+            <li style="border-bottom: 1px dotted #737a84; border-top: 1px dotted #737a84; padding: 6px 20px; letter-spacing: 2px; font-size:10px"><a href="designersuits.html#design" target="_blank">Designer Indian Suits</a></li>
+            <li style="border-bottom: 1px dotted #737a84;border-top: 1px dotted #737a84; padding: 6px 20px; letter-spacing: 2px;"><a href="designersaree.html#design" target="_blank">Sarees </a></li>
+            <li style="border-bottom: 1px dotted #737a84;border-top: 1px dotted #737a84; padding: 6px 20px; letter-spacing: 2px"><a href="designersuits.html#party" target="_blank">Party Wear Suits </a></li>
+            <li style="border-bottom: 1px dotted #737a84; padding: 6px 20px;border-top: 1px dotted #737a84; letter-spacing: 2px"><a href="anarkali.html#embembroided" target="_blank">Embroidery Salwar Suits </a></li>
+            </ul>
+            </div>
+            <div class="one-fourth">
+            <h3>Variety</h3>
+            <ul style="font-family: Georgia, 'Times New Roman'; margin: 0 15px 0 0; padding:0;">
+            <li style="border-bottom: 1px dotted #737a84; border-top: 1px dotted #737a84; padding: 6px 20px; letter-spacing: 2px"><a href="designersuits.html" target="_blank">Designer Suits</a> </li>
+            <li style="border-bottom: 1px dotted #737a84; padding: 6px 20px; letter-spacing: 2px"><a href="designersaree.html" target="_blank">Designer Sarees</a> </li>
+            <li style="border-bottom: 1px dotted #737a84; padding: 6px 20px; letter-spacing: 2px"><a href="anarkali.html" target="_blank">Anarkali Suits</a> </li>
+            <li style="border-bottom: 1px dotted #737a84; padding: 6px 20px; letter-spacing: 2px"><a href="designersuits.html#bolly" target="_blank">Bollywood Replica Suits</a> </li>
+            </ul>
+            </div>
+            <div class="one-fourth">
+            <h3>Tailoring</h3>
+            <p>We take care of stiching of ladies suits as well as blouses as per order. </p><div id="social_icons">
+            Copyright @ <a href="index.html">Priyani Collections</a><br> Developed &amp; Designed 
+            By <span style="color:#fff;"><strong>Saurabh Middha</strong></span>
+            </div>
+            </div>
+            <div style="width: 100px; float:right;" class="one-fourth">
+            <ul>
+				<li><a href="https://picasaweb.google.com/112072378216066217415?noredirect=1" target="_new">View Picasa Album<img height="50" width="50" alt="Find us on Picassa" src="images/picasa_large.png" style="margin:20px; text-align:center;"></a></li>
+<li><a href="https://twitter.com/pccollections" class="twitter-follow-button" data-show-count="true" data-lang="en" data-size="large" data-show-screen-name="false">Follow @pccollections</a></li>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>    
+			</ul>
+            </div>    
+		</div>
+        <div style="clear:both"></div>
+ 	 </div>
+</body>
+</html>

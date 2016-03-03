@@ -1,0 +1,139 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Kurti - Party Wear Kurti | Daily Wear Kurti</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords", content="Party Wear Kurti, Daily Wear Kurti, Kurti, Sona COLLECTIONS, DELHI" name="keywords">
+<meta content="We offer a variety in Kurtis as well. They differ from being extremely causal kurtis to heavy party wear kurtis. 
+Buy Party wear kurti @ Sonacollections.com" name="description">
+<link type="text/css" href="styles.css" rel="stylesheet">
+<link rel="stylesheet" href="coin-slider.css" type="text/css" />
+<link href="simple_menu.css" media="screen" type="text/css" rel="stylesheet">
+<link rel="icon" type="image/ico" href="favicon.ico">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/slider_script.js"></script>
+<script type="text/javascript" src="js/coin-slider.min.js"></script>
+</head>
+
+<body>
+<div id="container">
+<div id="fb-root"></div>
+<div id="header">
+        <h1 class="logo" id="homelogo">
+            <span class="pc">Sona Collections</span>
+        </h1>
+        <div id="socialmedia">
+        <span class="followus">Follow Us :</span>
+       		<div class="facebook"> 
+                  <a target="_blank" href="https://www.facebook.com/sonacollections" title="Facebook">
+                   <img alt="Find us on Facebook" src="images/facebook_icon.png"></a> 
+               </div>
+              </div>
+    	<div class="wrapper">
+    	<div class="wrapper-in">
+            <ol class="simple_menu simple_menu_css horizontal black_menu" id="menu">
+                <li><a href="index.html">Home</a></li>  
+                <li><a href="designersuits.html">Suits</a>
+                      <!-- sub menu -->
+                      <ol>     
+                      	<li><a href="designersuits.html#designer">Designer Suits</a></li>
+                          <li><a href="designersuits.html#party">Party Wear Suits</a></li>
+                          <li><a href="designersuits.html#bolly">Bollywood Replica Suits</a></li>
+                          <li><a href="anarkali.html">Anarkali Suits</a></li>
+                      </ol>
+                      </li>
+                      <li><a href="designersaree.html">Saree</a>
+                	<ol>
+                		<li><a href="designersaree.html#design">Designer Saree</a></li>
+                        <li><a href="designersaree.html#party">Party Wear Saree</a></li>
+                        <li><a href="designersaree.html#bolly">Bollywood Replica Saree</a></li>
+                        <li><a href="designersaree.html#silk">Silk Saree</a></li>
+                   </ol>
+                   </li>
+                   	  <li><a href="lahengas.html">Lahengas</a>
+                      	<ol>
+                            <li><a href="lahengas.html#bridal">Bridal Lahengas</a></li>
+                            <li><a href="lahengas.html#party">Party Wear Lahengas</a></li>
+                   		</ol>
+                      </li>
+                      <li><a href="kurti.html">Kurti</a>
+                      <ol>
+                       <li><a href="kurti.html#party">Party Wear Kurti</a></li>
+                       <li><a href="kurti.html#daily">Daily Wear Kurti</a></li>
+                       </ol></li>
+                      <!-- end sub menu -->
+                      <li><a href="gallery.html">Gallery</a></li>
+                      
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="https://picasaweb.google.com" target="_new">Picasa Album</a></li>
+                <li class="last"><a href="contact.html">Contact Us</a></li>
+                
+            </ol>
+         <div class="clr"></div>
+         <div style="float:right; position:fixed; height:166px; width:160px; cursor: help; display: block;  visibility: visible; right: 0px; margin-right: 0px;"> <a href="contact.html"><img width="150" height="150" src="images/order.png" alt="order"></a> </div>
+    	</div>
+    </div>
+ 	 </div>
+<div class="main">
+<h1 class="pageheading">Kurti</h1>
+<div class="content_wrapper">
+<div class="container"> <strong><a href="kurti.html#party">Party Wear Kurti </a>|| <a href="kurti.html#daily"> Daily Wear Kurti</a></strong>
+  <p align="justify">We offer a variety in Kurtis as well. They differ from being extremely causal kurtis to heavy party wear kurtis. </p>
+  <a name="party"></a>
+  <h2>Party Wear Kurti</h2>
+  <p><a style=" float:right" href="contact.html">
+    <input type="submit" value="Send Query" onclick="return imageField_onclick()" class="send" id="imageField" name="imageField" style="color: Black; background:#B4AD93; padding: 3px 6px 3px 6px; line-height: 20px; font-weight: 400; margin: 0px 0px 0px 100px;">
+    </a><img width="500" height="400" src="images/kurtis/3-27.jpg"><img width="500" height="400" src="images/kurtis/87.jpg"></p>
+  <a name="daily"></a>
+  <h2><br>
+    Daily Wear Kurti</h2>
+  <p align="justify">
+    <img width="500" height="400" src="images/kurtis/13-41-42.jpg"><a style=" float:right" href="contact.html">
+    <input type="submit" value="Send Query" onclick="return imageField_onclick()" class="send" id="imageField" name="imageField" style="color: Black; background:#B4AD93; padding: 3px 6px 3px 6px; line-height: 20px; font-weight: 400; margin: 0px 0px 0px 100px;">
+    </a><img width="500" height="400" src="images/kurtis/88.jpg"></p>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="footer">
+<div class="fb-like" data-href="https://www.facebook.com/pages/Sona-Collections/465540940224217 data-width="55" data-layout="box_count" data-action="like" data-show-faces="false" data-share="true"></div>
+  		<div style="width:960px; margin: auto; padding-bottom: 30px">
+            <div class="one-fourth">
+            <h3>Product Ranges </h3>
+            <ul style="font-family: Georgia, 'Times New Roman'; margin: 0 15px 0 0; padding:0;">
+            <li style="border-bottom: 1px dotted #737a84; border-top: 1px dotted #737a84; padding: 6px 12px; letter-spacing: 2px; font-size:10px"><a href="designersuits.html#design" target="_blank">Designer Indian Suits</a></li>
+            <li style="border-bottom: 1px dotted #737a84; border-top: 1px dotted #737a84; padding: 6px 12px; letter-spacing: 2px;"><a href="designersaree.html#design" target="_blank">Sarees </a></li>
+            <li style="border-bottom: 1px dotted #737a84; border-top: 1px dotted #737a84; padding: 6px 12px; letter-spacing: 2px"><a href="designersuits.html#party" target="_blank">Party Wear Suits </a></li>
+            <li style="border-bottom: 1px dotted #737a84; padding: 6px 12px; border-top: 1px dotted #737a84; letter-spacing: 2px"><a href="anarkali.html#embembroided" target="_blank">Embroidery Salwar Suits </a></li>
+            </ul>
+            </div>
+            <div class="one-fourth">
+            <h3>Variety</h3>
+            <ul style="font-family: Georgia, 'Times New Roman'; margin: 0 15px 0 0; padding:0;">
+            <li style="border-bottom: 1px dotted #737a84; border-top: 1px dotted #737a84; padding: 6px 12px; letter-spacing: 2px"><a href="designersuits.html" target="_blank">Designer Suits</a> </li>
+            <li style="border-bottom: 1px dotted #737a84; padding: 6px 12px; letter-spacing: 2px"><a href="designersaree.html" target="_blank">Designer Sarees</a> </li>
+            <li style="border-bottom: 1px dotted #737a84; padding: 6px 12px; letter-spacing: 2px"><a href="anarkali.html" target="_blank">Anarkali Suits</a> </li>
+            <li style="border-bottom: 1px dotted #737a84; padding: 6px 12px; letter-spacing: 2px"><a href="designersuits.html#bolly" target="_blank">Bollywood Replica Suits</a> </li>
+            </ul>
+            </div>
+            <div class="one-fourth">
+            <h3>Tailoring</h3>
+            <p>We take care of stiching of ladies suits as well as blouses as per order. </p><div id="social_icons">
+            Copyright @ <a href="index.html">Sona Collections</a><br> Developed  
+            By <span style="color:#fff;"><strong>Bino Oommen</strong></span>
+            </div>
+            </div>
+            <div style="width: 100px; float:right;" class="one-fourth">
+            <ul>
+				<li>View Picasa Album<img height="50" width="50" alt="Find us on Picassa" src="images/picasa_large.png" style="margin:20px; text-align:center;"></li>   
+			</ul>
+            </div>        
+		</div>
+        <div style="clear:both"></div>
+ 	 </div>
+</div>
+</body>
+</html>
